@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoDDD.Domain.Entities
 {
-    class Cleite
+    class Cliente
     {
     }
 }
